@@ -1,0 +1,3 @@
+﻿  Assembling test.asm...
+test.obj : warning LNK4258: 指令“/ENTRY:main@0”与开关“/ENTRY:main”不兼容；已忽略
+  Project01.vcxproj -> D:\Users\huangrui\source\repos\Project01\Debug\Project01.exe
